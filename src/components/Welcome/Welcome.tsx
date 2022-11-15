@@ -14,7 +14,7 @@ export function Welcome() {
         </Text>
       </Title>
       <Text color="dimmed" align="center" size="lg" sx={{ maxWidth: 580 }} mx="auto" mt="xl">
-        This is my starter kit for next project
+        This is my starter kit for next project deployed on DigitalOcean
       </Text>
     </>
   )
